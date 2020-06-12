@@ -1,2 +1,14 @@
 # frontend
+
+JOHAN RENTERIA
+DIEGO CABRERA
+LUIS MORA
+JHONNIER BENAVIDES
+
  FRONTEND DEL API
+EJECUTAR EL SERVIDOR DEL BACKEND con npm run dev
+
+EJECUTAR SERVIDOR DEL FRONTEND con npm run seve
+
+IR AL PUERTO QUE DA EL SERVIDOR FRONTEND
+ahi se encontrara 3 pestañas, ir a EMPLEADOS y ahi esta todas las funcionalidades
